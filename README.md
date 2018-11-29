@@ -14,7 +14,7 @@ These guidelines will help you use the Vipps payments buttons, logo and mark wit
 ### Style
 Vipps buttons are only available in one style: white text on orange. The Vipps Hurtigkasse button is always in Norwegian. Don’t create buttons with your own localized text.
 
-![Vipps payment button styles](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/style.png)
+![Vipps payment button styles](images/style.png)
 
 ### Dos and Don’ts
 
@@ -30,7 +30,7 @@ Vipps buttons are only available in one style: white text on orange. The Vipps H
 - Don't make the Vipps button smaller than other buttons.
 - Don't use a background color that's similar to the button color.
 
-![Cart with two buttons](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/cart-two-buttons.png)
+![Cart with two buttons](images/cart-two-buttons.png)
 
 👍 If you place a Vipps button next to another button, make sure the Vipps button is of equal size.
 
@@ -46,7 +46,7 @@ Download the Vipps logo and the Vipps mark in SVG file formats.
 
 #### Logo
 
-![Vipps logo](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/logo.png)
+![Vipps logo](images/logo.png)
 
 **Use the Vipps logo with other brand logos.**
 
@@ -54,7 +54,7 @@ If you're using the full logos of other brands to indicate different payment opt
 
 #### Mark
 
-![Vipps mark](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/mark.png)
+![Vipps mark](images/mark.png)
 
 ***Use the Vipps mark with other brand identities in credit card format.***
 
@@ -63,11 +63,11 @@ If you're using brand identities displayed in credit card format to indicate dif
 ### Size
 Adjust the height to match the other brand identities displayed in your payment flow. Don't make the Vipps logo or mark smaller than other brand identities.
 
-![Checkout with Vipps logo](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/checkout-logo.png)
+![Checkout with Vipps logo](images/checkout-logo.png)
 
 👍 If you use logos to represent payment options, use the Vipps logo and continue to use it throughout your buy flow.
 
-![Checkout with Vipps mark](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/checkout-mark.png)
+![Checkout with Vipps mark](images/checkout-mark.png)
 
 👍 If you use the credit card format to represent payment options, continue to use the Vipps mark throughout your buy flow.
 
@@ -98,11 +98,11 @@ Always use an uppercase "V" followed by lowercase letters. Don't capitalize the 
 ### Don't translate Vipps Hurtigkasse
 "Vipps Hurtigkasse" should always be written in Norwegian. Don't translate it to another language.
 
-![Checkout with Vipps in text](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/card-text.png)
+![Checkout with Vipps in text](images/card-text.png)
 
 👍 If you don't display logos for other payment options, "Vipps" should be represented by text.
 
-![Confirm with Vipps mark](https://gist.github.com/simonbognoe/4449269809223eef848bc6effb98ad8a/raw/605595f769b1291216f44d6aec39f22904c1a0e8/confirm-mark.png)
+![Confirm with Vipps mark](images/confirm-mark.png)
 
 👍 "Vipps" should be set in the same font and typographic style as the rest of the text on your site.
 
