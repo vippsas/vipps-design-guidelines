@@ -1,6 +1,9 @@
 # Disclaimer
 
-This is only a draft for Vipps buttons. This is not the official style guidelines from Vipps. For official documentation, see the parent repository and https://www.vipps.no/markedsmateriell
+This is a work in progress, and only a draft for how to generate Vipps buttons. 
+
+For official design guidelines, see [the parent repository](https://github.com/vippsas/vipps-design-guidelines/) 
+and https://www.vipps.no/markedsmateriell.
 
 ## Overview
 
