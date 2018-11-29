@@ -1,4 +1,5 @@
-# Vipps payment guidelines
+# Vipps design guidelines
+
 These guidelines will help you use the Vipps payments buttons, logo and mark within your websites.
 
 ## Table of Contents
