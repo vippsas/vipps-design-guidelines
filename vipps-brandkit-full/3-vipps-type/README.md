@@ -1,8 +1,4 @@
-Readme for Vipps Fonts
-
---
-
-#Vipps Fonts
+# Vipps Fonts
 
 The Vipps Fonts (Display and Text) are to be used by agencies involved in doing creative work for Vipps. The web fonts are for internal use at Vipps only.
 
