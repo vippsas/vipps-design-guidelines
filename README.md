@@ -28,6 +28,7 @@ Vipps buttons are only available in one style: white text on orange. The Vipps H
 - Don't use Vipps buttons to initiate any action other than a payment flow.
 - Don't make the Vipps button smaller than other buttons.
 - Don't use a background color that's similar to the button color.
+- Don't add hover effects.
 
 ![Cart with two buttons](images/cart-two-buttons.svg)
 
