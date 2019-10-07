@@ -65,6 +65,18 @@ Adjust the height to match the other brand identities displayed in your payment 
 
 👍 If you use the credit card format to represent payment options, continue to use the Vipps mark throughout your buy flow.
 
+#### Pay marks
+
+Here are paymarks that can be used on frontpage or productpages:
+
+![Vipps paymark - orange](vipps-paymarks/01 Betal med vipps - oransj.png)
+
+![Vipps paymark - white](vipps-paymarks/02 Betal med vipps - hvit.png)
+
+![Vipps paymark - bubble](vipps-paymarks/03 Betal med vipps boble.png)
+
+See [this PDF](paymarks/Vipps - nettbutikker _v.4.0 utrekk.pdf) for more examples.
+
 ### Dos and Don’ts
 
 #### ✅ Do
