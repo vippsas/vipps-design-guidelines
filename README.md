@@ -69,13 +69,13 @@ Adjust the height to match the other brand identities displayed in your payment 
 
 Here are paymarks that can be used on frontpage or productpages:
 
-![Vipps paymark - orange](vipps-paymarks/01 Betal med vipps - oransj.png)
+![Vipps paymark orange](vipps-paymarks/01-Betal-med-vipps-oransj.png)
 
-![Vipps paymark - white](vipps-paymarks/02 Betal med vipps - hvit.png)
+![Vipps paymark white](vipps-paymarks/02-Betal-med-vipps-hvit.png)
 
-![Vipps paymark - bubble](vipps-paymarks/03 Betal med vipps boble.png)
+![Vipps paymark bubble](vipps-paymarks/03-Betal-med-vipps-boble.png)
 
-See [this PDF](paymarks/Vipps - nettbutikker _v.4.0 utrekk.pdf) for more examples.
+See [this PDF](paymarks/Vipps-nettbutikker-v.4.0-utrekk.pdf) for more examples.
 
 ### Dos and Don’ts
 
