@@ -5,6 +5,7 @@ These guidelines will help you use the Vipps payments buttons, logo and mark wit
 ## Table of Contents
 * [Vipps buttons](#vipps-buttons)
 * [Vipps logo and mark](#vipps-logo-and-mark)
+* [Vipps custom QR code](#vipps-custom-qr-code)
 * [Using Vipps in text](#using-vipps-in-text)
 * [Best practices](#best-practices)
 
@@ -85,6 +86,19 @@ See [this PDF](paymarks/Vipps-nettbutikker-v.4.0-utrekk.pdf) for more examples.
 #### 🔥 Don’t
 * Don't create your own logo or mark or alter them in any way.
 * Don't display the Vipps logo or mark in a different or smaller size than the other payment options.
+
+## Vipps custom QR code
+With an agreement with Vipps, it is possible to link directly to a merchan domain by scanning a merchant URL with the camera in the Vipps app. 
+
+### Vipps QR code frame
+Always embed your QR codes pointing to you chosen URL inside a Vipps QR code frame. To improve your conversion rate, the frame and QR code should be placed somewhere natural and visible in the chosen purchase flow. 
+
+The QR code frame can be downloaded from  [insert link]
+
+### Custom merchant QR code
+Your QR code, embedded into a Vipps QR code frame must follow Vipps colour scheme. The eyeballs should be rounded. You may add your own logo in the center of the QR code. The URL in the QR code should not be too long, as it impedes readability.
+
+For an example, see [insert QR_code_instructions document]
 
 ## Using Vipps in text
 You may use text to indicate Vipps as a payment option and to promote Vipps in your marketing communication.
