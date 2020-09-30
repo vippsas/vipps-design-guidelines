@@ -93,7 +93,7 @@ With an agreement with Vipps, it is possible to link directly to a merchan domai
 ### Vipps QR code frame
 Always embed your QR codes pointing to you chosen URL inside a Vipps QR code frame. To improve your conversion rate, the frame and QR code should be placed somewhere natural and visible in the chosen purchase flow. 
 
-The QR code frame can be downloaded from  [insert link]
+The QR code frame can be downloaded from  https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-qr
 
 ### Custom merchant QR code
 Your QR code, embedded into a Vipps QR code frame must follow Vipps colour scheme. The eyeballs should be rounded. You may add your own logo in the center of the QR code. The URL in the QR code should not be too long, as it impedes readability.
