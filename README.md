@@ -98,7 +98,7 @@ The QR code frame can be downloaded from  https://github.com/vippsas/vipps-desig
 ### Custom merchant QR code
 Your QR code, embedded into a Vipps QR code frame must follow Vipps colour scheme. The eyeballs should be rounded. You may add your own logo in the center of the QR code. The URL in the QR code should not be too long, as it impedes readability.
 
-For an example, see [insert QR_code_instructions document]
+For an example, see https://github.com/vippsas/vipps-design-guidelines/blob/master/vipps-qr/vipps_qr_code_instructions.pdf
 
 ## Using Vipps in text
 You may use text to indicate Vipps as a payment option and to promote Vipps in your marketing communication.
