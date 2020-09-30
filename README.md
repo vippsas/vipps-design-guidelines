@@ -88,7 +88,7 @@ See [this PDF](paymarks/Vipps-nettbutikker-v.4.0-utrekk.pdf) for more examples.
 * Don't display the Vipps logo or mark in a different or smaller size than the other payment options.
 
 ## Vipps custom QR code
-With an agreement with Vipps, it is possible to link directly to a merchan domain by scanning a merchant URL with the camera in the Vipps app. 
+With an agreement with Vipps, it is possible to link directly to a merchant domain by scanning a merchant URL with the camera in the Vipps app. 
 
 ### Vipps QR code frame
 Always embed your QR codes pointing to you chosen URL inside a Vipps QR code frame. To improve your conversion rate, the frame and QR code should be placed somewhere natural and visible in the chosen purchase flow. 
