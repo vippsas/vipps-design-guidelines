@@ -7,4 +7,4 @@ and https://www.vipps.no/markedsmateriell.
 
 ## Overview
 
-A dummysite is available at https://vippsas.github.io/vipps-design-guidelines/vipps-buttons/
+A dummysite is available at https://vippsas.github.io/vipps-design-guidelines/vipps-buttons-generator/
