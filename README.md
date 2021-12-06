@@ -12,7 +12,7 @@ These guidelines will help you use the Vipps payments buttons, logo and mark wit
 ## Vipps buttons
 
 ### Style
-Vipps buttons are only available in one style: white text on orange. The Vipps Hurtigkasse button is always in Norwegian. Don’t create buttons with your own localized text.
+Vipps buttons are only available in one style: white text on orange.
 
 ![Vipps payment button styles](images/style.svg)
 
@@ -88,10 +88,10 @@ See [this PDF](paymarks/Vipps-nettbutikker-v.4.0-utrekk.pdf) for more examples.
 * Don't display the Vipps logo or mark in a different or smaller size than the other payment options.
 
 ## Vipps custom QR code
-With an agreement with Vipps, it is possible to link directly to a merchant domain by scanning a merchant URL with the camera in the Vipps app. 
+With an agreement with Vipps, it is possible to link directly to a merchant domain by scanning a merchant URL with the camera in the Vipps app.
 
 ### Vipps QR code frame
-Always embed your QR codes pointing to you chosen URL inside a Vipps QR code frame. To improve your conversion rate, the frame and QR code should be placed somewhere natural and visible in the chosen purchase flow. 
+Always embed your QR codes pointing to you chosen URL inside a Vipps QR code frame. To improve your conversion rate, the frame and QR code should be placed somewhere natural and visible in the chosen purchase flow.
 
 The QR code frame can be downloaded from  https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-qr
 
@@ -108,9 +108,6 @@ Always use an uppercase "V" followed by lowercase letters. Don't capitalize the 
 
 ### Match the style on your website
 "Vipps" should be set in the same font and typographic style as the rest of the text on your website. Don't try to mimic Vipps's typographic style.
-
-### Don't translate Vipps Hurtigkasse
-"Vipps Hurtigkasse" should always be written in Norwegian. Don't translate it to another language.
 
 ![Checkout with Vipps in text](images/cart-text.svg)
 
@@ -131,9 +128,6 @@ People like using Vipps for faster checkout. Where possible, display the Vipps b
 
 ### Let your customers make purchases without an account
 Account creation slows down the checkout process and can lead to abandoned carts. Use Vipps to enable faster guest checkout. If you'd like your customers to create an account, allow them to do so after they complete their purchase.
-
-### Add the Vipps Hurtigkasse button to product detail pages in addition to cart checkout
-Speed up single-item checkout by letting customers make individual purchases right from your product detail pages.
 
 ### Include Vipps on confirmation pages and receipts
 When displaying payment information on confirmation pages and email receipts, make sure you indicate the customer has paid with Vipps and ensure that Vipps is displayed consistently with how other payment methods are displayed.
