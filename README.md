@@ -73,7 +73,7 @@ Here are paymarks that can be used on frontpage or productpages:
 * [White](vipps-paymarks/02-Betal-med-vipps-hvit.png)
 * [Bubble](vipps-paymarks/03-Betal-med-vipps-boble.png)
 
-See [this PDF](paymarks/Vipps-nettbutikker-v.4.0-utrekk.pdf) for more examples.
+See [this PDF](./vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) for more examples.
 
 ### Dos and Don’ts
 
