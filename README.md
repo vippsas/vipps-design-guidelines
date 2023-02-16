@@ -9,6 +9,7 @@ END_METADATA -->
 # Vipps design guidelines
 
 **Please note:** These guidelines will be revised. Contact us if you have questions.
+
 See also:
 * [brand.vipps.no](https://brand.vipps.no/)
 * [designsystem.vipps.io](https://designsystem.vipps.io)

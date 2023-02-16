@@ -1,4 +1,9 @@
 # VippsBrandKit-full
+
+**Please note:** These guidelines will be revised. Contact us if you have questions.
+
+----------
+
 Brand Kit for Vipps' new visual identity aimed at creative agencies.
 
 Download here:
@@ -28,13 +33,3 @@ Emoji assets for for print (.eps) and screen (.svg and .png)
 
 # 5-vipps-templates
 Ready-made templates for easy use of the brand standards (currently only for PowerPoint, `.potx` file).
-
---
-
-Please contact João Doria at Scandinavian Design Group (joao.doria@sdg.no) for further information.
-
---
-
-The Vipps Brand is managed by:
-## Hanne Norstrøm-Ness (hanne@vipps.no)
-## Tonje Foss Kløve (tonje@vipps.no)
