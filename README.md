@@ -14,6 +14,9 @@ See also:
 * [brand.vipps.no](https://brand.vipps.no/)
 * [designsystem.vipps.io](https://designsystem.vipps.io)
 * [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
+* [GitHub: vipps-design-guidelines](https://github.com/vippsas/vipps-design-guidelines)
+
+---------
 
 These guidelines will help you use the Vipps payments buttons, logo and mark within your websites.
 

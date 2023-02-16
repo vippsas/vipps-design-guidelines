@@ -14,6 +14,8 @@ END_METADATA -->
 
 This is a work in progress, and only a draft for how to generate Vipps buttons.
 
+See: https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-buttons-generator
+
 ## Overview
 
 A dummysite is available at https://vippsas.github.io/vipps-design-guidelines/vipps-buttons/
