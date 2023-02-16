@@ -1,3 +1,11 @@
+<!-- START_METADATA
+---
+title: Brandkit
+sidebar_position: 90
+pagination_next: null
+---
+END_METADATA -->
+
 # VippsBrandKit-full
 
 **Please note:** These guidelines will be revised. Contact us if you have questions.

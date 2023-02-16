@@ -1,11 +1,11 @@
 <!-- START_METADATA
 ---
-title: Paymarks
-sidebar_position: 20
+title: App icons
+sidebar_position: 30
 pagination_next: null
 ---
 END_METADATA -->
 
-# Paymarks
+# App icons
 
 **Please note:** These guidelines will be revised. Contact us if you have questions.
