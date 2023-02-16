@@ -9,6 +9,10 @@ END_METADATA -->
 # Vipps design guidelines
 
 **Please note:** These guidelines will be revised. Contact us if you have questions.
+See also:
+* [brand.vipps.no](https://brand.vipps.no/)
+* [designsystem.vipps.io](https://designsystem.vipps.io)
+* [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
 
 These guidelines will help you use the Vipps payments buttons, logo and mark within your websites.
 
