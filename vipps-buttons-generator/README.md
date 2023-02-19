@@ -20,4 +20,4 @@ See: https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-button
 
 ## Overview
 
-A dummysite is available at https://vippsas.github.io/vipps-design-guidelines/vipps-buttons/
+A dummy site is available [here](https://vippsas.github.io/vipps-design-guidelines/vipps-buttons/).
