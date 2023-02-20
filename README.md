@@ -8,23 +8,16 @@ END_METADATA -->
 
 # Vipps design guidelines
 
-**Please note:** These guidelines will be revised. Contact us if you have questions.
-
-See also:
-
-* [brand.vipps.no](https://brand.vipps.no/)
-* [designsystem.vipps.io](https://designsystem.vipps.io)
-* [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
-* [GitHub: vipps-design-guidelines](https://github.com/vippsas/vipps-design-guidelines)
-
----------
-
 These guidelines will help you use the Vipps payments buttons, logo and mark within your websites.
 
-<!-- START_COMMENT -->
+**Please note:** These guidelines are under revision. Contact us if you have questions.
 
-ℹ️ Please use the new documentation:
-[Vipps Technical Documentation](https://vippsas.github.io/vipps-developer-docs/).
+<!-- START_METADATA
+This content might be better reviewed in GitHub for now. See <https://github.com/vippsas/vipps-design-guidelines>.
+END_METADATA -->
+
+
+<!-- START_COMMENT -->
 
 ## Table of Contents
 
@@ -32,6 +25,7 @@ These guidelines will help you use the Vipps payments buttons, logo and mark wit
 * [Vipps logo and mark](#vipps-logo-and-mark)
 * [Using Vipps in text](#using-vipps-in-text)
 * [Best practices](#best-practices)
+* [Additional resources](#additional-resources)
 
 <!-- END_COMMENT -->
 
@@ -70,7 +64,8 @@ Use either the Vipps logo or the Vipps mark when showing Vipps as a payment opti
 
 ### Assets
 
-[Download the Vipps logo and mark](https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-buttons) in `.svg` and `.png` formats.
+See <https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-buttons>.
+Download the Vipps logo and mark in `.svg` and `.png` formats.
 
 #### Logo
 
@@ -160,3 +155,10 @@ Account creation slows down the checkout process and can lead to abandoned carts
 ### Include Vipps on confirmation pages and receipts
 
 When displaying payment information on confirmation pages and email receipts, make sure you indicate the customer has paid with Vipps and ensure that Vipps is displayed consistently with how other payment methods are displayed.
+
+
+## Additional resources
+
+* [brand.vipps.no](https://brand.vipps.no/)
+* [designsystem.vipps.io](https://designsystem.vipps.io)
+* [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
