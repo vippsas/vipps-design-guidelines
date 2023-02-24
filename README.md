@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Design guidelines
+title: Introduction
 sidebar_position: 10
 pagination_next: null
 ---
