@@ -1,14 +1,18 @@
 <!-- START_METADATA
 ---
-title: Introduction
-sidebar_position: 10
+title: Design guidelines
+sidebar_label: Introduction
+sidebar_position: 1
+hide_table_of_contents: true
 pagination_next: null
+pagination_prev: null
 ---
 END_METADATA -->
 
-# Vipps design guidelines
+# Design guidelines
 
-These guidelines will help you use the Vipps payments buttons, logo and mark within your websites.
+💥 Work in progress 💥
+
 
 **Please note:** These guidelines are under revision. Contact us if you have questions.
 
@@ -17,17 +21,7 @@ This content might be better reviewed in GitHub for now. See <https://github.com
 END_METADATA -->
 
 
-<!-- START_COMMENT -->
-
-## Table of Contents
-
-* [Vipps buttons](#vipps-buttons)
-* [Vipps logo and mark](#vipps-logo-and-mark)
-* [Using Vipps in text](#using-vipps-in-text)
-* [Best practices](#best-practices)
-* [Additional resources](#additional-resources)
-
-<!-- END_COMMENT -->
+These guidelines will help you use the payments buttons, logo, and marks within your websites.
 
 ## Vipps buttons
 
