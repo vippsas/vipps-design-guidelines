@@ -67,7 +67,7 @@ Download the Vipps logo and mark in `.svg` and `.png` formats.
 
 *Use the Vipps logo with other brand logos.*
 
-If you're using the full logos of other brands to indicate different payment options in your payment flow, favor the Vipps logo over the Vipps mark. Display "Vipps" in text next to the logo if you're doing so for other brands. Don't alter the Vipps logo in any way. Use only the logo provided by Vipps.
+If you're using the full logos of other brands to indicate different payment options in your payment flow, use the Vipps logo instead of the Vipps mark. Display "Vipps" in text next to the logo if you're doing so for other brands. Don't alter the Vipps logo in any way. Use only the logo provided by Vipps.
 
 #### Mark
 
@@ -75,7 +75,7 @@ If you're using the full logos of other brands to indicate different payment opt
 
 *Use the Vipps mark with other brand identities in credit card format.*
 
-If you're using brand identities displayed in credit card format to indicate different payment options in your payment flow, favor the Vipps mark over the Vipps logo. Display "Vipps" in text next to the mark if you're doing so for other brands. Don't change the color or weight of the mark's outline or alter the mark in any way. Use only the mark provided by Vipps.
+If you're using brand identities displayed in credit card format to indicate different payment options in your payment flow, use the Vipps mark instead of the Vipps logo. Display "Vipps" in text next to the mark if you're doing so for other brands. Don't change the color or weight of the mark's outline or alter the mark in any way. Use only the mark provided by Vipps.
 
 ### Size
 
