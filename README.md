@@ -93,11 +93,11 @@ Adjust the height to match the other brand identities displayed in your payment 
 
 Here are paymarks that can be used on front page or product pages:
 
-* [Orange](vipps-paymarks/01-Betal-med-vipps-oransj.png)
-* [White](vipps-paymarks/02-Betal-med-vipps-hvit.png)
-* [Bubble](vipps-paymarks/03-Betal-med-vipps-boble.png)
+* [Orange](/downloads/vipps-paymarks/01-Betal-med-vipps-oransj.png)
+* [White](/downloads/vipps-paymarks/02-Betal-med-vipps-hvit.png)
+* [Bubble](/downloads/vipps-paymarks/03-Betal-med-vipps-boble.png)
 
-See [this PDF](./vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) for more examples.
+See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) for more examples.
 
 ### Dos and Don’ts
 
