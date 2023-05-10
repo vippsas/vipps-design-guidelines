@@ -19,6 +19,15 @@ These guidelines will help you use the payments buttons, logo, and marks within 
 This content might be better reviewed in GitHub for now. See <https://github.com/vippsas/vipps-design-guidelines>.
 END_METADATA -->
 
+## Assets
+
+You can find the Vipps images in the
+[Vipps Design Toolkit on Figma][figma-link].
+Alternatively, download a [zip file](/downloads/vipps-buttons.zip) with all the images in SVG and PNG formats.
+
+
+To download a kit with brand and style information, see the
+[full Vipps brand toolkit](./vipps-brandkit-full/README.md).
 
 ## Vipps buttons
 
@@ -68,10 +77,6 @@ This exception only applies to color. Don't create your own Vipps buttons or alt
 
 Use either the Vipps logo or the Vipps mark when showing Vipps as a payment option. Choose the option that best matches the way in which other payment options are displayed.
 
-### Assets
-
-Download a [zip file](/downloads/vipps-buttons.zip) with all the images in
-SVG and PNG formats.
 
 #### Logo
 
@@ -128,14 +133,10 @@ See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) 
 
 ### Vipps app icons
 
-
 [![app icon 1](images/appIkon-01-sm.png)](/downloads/vipps-app-icons/appIkon-01.png)
 
 [![app icon 2](images/appIkon-02-sm.png)](/downloads/vipps-app-icons/appIkon-02.png)
 
-### Brand toolkit
-
-To get more brand and style information, see the full [Vipps brand toolkit](./vipps-brandkit-full/README.md).
 
 ## Using Vipps in text
 
@@ -181,3 +182,9 @@ When displaying payment information on confirmation pages and email receipts, ma
 * [brand.vipps.no](https://brand.vipps.no/)
 * [designsystem.vipps.io](https://designsystem.vipps.io)
 * [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
+
+
+
+
+
+[figma-link]: https://www.figma.com/file/8678DAVOSUQbD6VhZVUGuh/Vipps-Design-Toolkit?type=design&node-id=1%3A972&t=MTp5hTbXodmc0qUs-1
