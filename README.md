@@ -28,6 +28,19 @@ Vipps buttons are only available in one style: white text on orange.
 
 ![Vipps payment button styles](images/style.svg)
 
+#### Exceptions (WCAG AAA)
+
+Our orange buttons with white text meet the WCAG demands for AA.
+If your website need WCAG AAA, we allow to render our buttons in higher contrast, either white or black background.
+Use prefers-contrast and -ms-high-contrast CSS media queries to detect if your user have settings that asks for high contrast.
+
+| Rectangular button  | Pill button  |
+| - | - |
+| ![Rectangular white - EN](images/rectangular-white-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
+| ![Rectangular black - EN](images/rectangular-black-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
+
+This exception only applies to color. Don't create your own Vipps buttons or alter the font, button radius, or padding within the button in any other way.
+
 ### Dos and Don’ts
 
 #### ✅ Do
