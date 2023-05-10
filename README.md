@@ -99,6 +99,14 @@ Here are paymarks that can be used on front page or product pages:
 
 See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) for more examples.
 
+#### Vipps app icons
+
+
+[![app icon 1](images/appIkon-01-sm.png)](/downloads/vipps-app-icons/appIkon-01.png)
+[![app icon 2](images/appIkon-02-sm.png)](/downloads/vipps-app-icons/appIkon-02.png)
+
+
+
 ### Dos and Don’ts
 
 #### ✅ Do
