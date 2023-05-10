@@ -10,11 +10,7 @@ END_METADATA -->
 
 **Please note:** These guidelines will be revised. Contact us if you have questions.
 
-See: <https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-brandkit-full>
-
-----------
-
-Brand Kit for Vipps' new visual identity aimed at creative agencies.
+Brand Kit for Vipps' visual identity aimed at creative agencies.
 
 Download here:
 https://github.com/ScandinavianDesignGroup/VippsBrandKit/archive/master.zip
