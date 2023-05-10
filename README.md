@@ -58,8 +58,8 @@ Use either the Vipps logo or the Vipps mark when showing Vipps as a payment opti
 
 ### Assets
 
-See <https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-buttons>.
-Download the Vipps logo and mark in `.svg` and `.png` formats.
+Download a [zip file](/downloads/vipps-buttons.zip) with all the images in
+SVG and PNG formats.
 
 #### Logo
 
