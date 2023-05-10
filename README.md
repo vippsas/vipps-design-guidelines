@@ -11,8 +11,7 @@ END_METADATA -->
 
 # Design guidelines
 
-💥 Work in progress 💥
-
+These guidelines will help you use the payments buttons, logo, and marks within your websites.
 
 **Please note:** These guidelines are under revision. Contact us if you have questions.
 
@@ -20,8 +19,6 @@ END_METADATA -->
 This content might be better reviewed in GitHub for now. See <https://github.com/vippsas/vipps-design-guidelines>.
 END_METADATA -->
 
-
-These guidelines will help you use the payments buttons, logo, and marks within your websites.
 
 ## Vipps buttons
 
@@ -37,16 +34,18 @@ Vipps buttons are only available in one style: white text on orange.
 
 - Use only the buttons provided by Vipps.
 - Use the same style of button throughout your site.
+- The button text should only use a verb approved by Vipps.
 - Ensure that the size of the Vipps buttons remains equal to or larger than other buttons.
 - Ensure that you choose a background color that contrasts with the button color.
 
 #### 🔥 Don’t
 
 - Don't create your own Vipps buttons or alter the font, color, button radius, or padding within the button in any way.
-- Don't use Vipps buttons to initiate any action other than a payment flow.
+- Don't use Vipps buttons to initiate any action other than a flow controlled by Vipps (either opening our app or a Vipps landing page).
 - Don't make the Vipps button smaller than other buttons.
 - Don't use a background color that's similar to the button color.
 - Don't add hover effects.
+- Don't add stroke.
 
 ![Cart with two buttons](images/cart-two-buttons.svg)
 
@@ -99,13 +98,6 @@ Here are paymarks that can be used on front page or product pages:
 
 See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) for more examples.
 
-#### Vipps app icons
-
-
-[![app icon 1](images/appIkon-01-sm.png)](/downloads/vipps-app-icons/appIkon-01.png)
-[![app icon 2](images/appIkon-02-sm.png)](/downloads/vipps-app-icons/appIkon-02.png)
-
-
 
 ### Dos and Don’ts
 
@@ -119,6 +111,18 @@ See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) 
 
 * Don't create your own logo or mark or alter them in any way.
 * Don't display the Vipps logo or mark in a different or smaller size than the other payment options.
+
+
+### Vipps app icons
+
+
+[![app icon 1](images/appIkon-01-sm.png)](/downloads/vipps-app-icons/appIkon-01.png)
+
+[![app icon 2](images/appIkon-02-sm.png)](/downloads/vipps-app-icons/appIkon-02.png)
+
+### Brand toolkit
+
+To get more brand and style information, see the full [Vipps brand toolkit](./vipps-brandkit-full/README.md).
 
 ## Using Vipps in text
 
