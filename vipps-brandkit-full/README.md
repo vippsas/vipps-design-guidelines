@@ -10,11 +10,7 @@ END_METADATA -->
 
 **Please note:** These guidelines will be revised. Contact us if you have questions.
 
-See: <https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-brandkit-full>
-
-----------
-
-Brand Kit for Vipps' new visual identity aimed at creative agencies.
+Brand Kit for Vipps' visual identity aimed at creative agencies.
 
 Download here:
 https://github.com/ScandinavianDesignGroup/VippsBrandKit/archive/master.zip
@@ -45,7 +41,7 @@ The typefaces Vipps Display and Vipps Text (Light, Regular, Bold, Black). See RE
 
 # 4-vipps-emojis
 
-Emoji assets for for print (.eps) and screen (.svg and .png)
+Emoji assets for print (.eps) and screen (.svg and .png)
 
 # 5-vipps-templates
 

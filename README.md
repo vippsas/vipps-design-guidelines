@@ -11,8 +11,7 @@ END_METADATA -->
 
 # Design guidelines
 
-💥 Work in progress 💥
-
+These guidelines will help you use the payments buttons, logo, and marks within your websites.
 
 **Please note:** These guidelines are under revision. Contact us if you have questions.
 
@@ -20,8 +19,15 @@ END_METADATA -->
 This content might be better reviewed in GitHub for now. See <https://github.com/vippsas/vipps-design-guidelines>.
 END_METADATA -->
 
+## Assets
 
-These guidelines will help you use the payments buttons, logo, and marks within your websites.
+You can find the Vipps images in the
+[Vipps Design Toolkit on Figma][figma-link].
+Alternatively, download a [zip file](/downloads/vipps-buttons.zip) with all the images in SVG and PNG formats.
+
+
+To download a kit with brand and style information, see the
+[full Vipps brand toolkit](./vipps-brandkit-full/README.md).
 
 ## Vipps buttons
 
@@ -31,22 +37,37 @@ Vipps buttons are only available in one style: white text on orange.
 
 ![Vipps payment button styles](images/style.svg)
 
+#### Exceptions (WCAG AAA)
+
+Our orange buttons with white text meet the WCAG demands for AA.
+If your website need WCAG AAA, we allow to render our buttons in higher contrast, either white or black background.
+Use prefers-contrast and -ms-high-contrast CSS media queries to detect if your user have settings that asks for high contrast.
+
+| Rectangular button  | Pill button  |
+| - | - |
+| ![Rectangular white - EN](images/rectangular-white-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
+| ![Rectangular black - EN](images/rectangular-black-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
+
+This exception only applies to color. Don't create your own Vipps buttons or alter the font, button radius, or padding within the button in any other way.
+
 ### Dos and Don’ts
 
 #### ✅ Do
 
 - Use only the buttons provided by Vipps.
 - Use the same style of button throughout your site.
+- The button text should only use a verb approved by Vipps.
 - Ensure that the size of the Vipps buttons remains equal to or larger than other buttons.
 - Ensure that you choose a background color that contrasts with the button color.
 
 #### 🔥 Don’t
 
 - Don't create your own Vipps buttons or alter the font, color, button radius, or padding within the button in any way.
-- Don't use Vipps buttons to initiate any action other than a payment flow.
+- Don't use Vipps buttons to initiate any action other than a flow controlled by Vipps (either opening our app or a Vipps landing page).
 - Don't make the Vipps button smaller than other buttons.
 - Don't use a background color that's similar to the button color.
 - Don't add hover effects.
+- Don't add stroke.
 
 ![Cart with two buttons](images/cart-two-buttons.svg)
 
@@ -56,10 +77,6 @@ Vipps buttons are only available in one style: white text on orange.
 
 Use either the Vipps logo or the Vipps mark when showing Vipps as a payment option. Choose the option that best matches the way in which other payment options are displayed.
 
-### Assets
-
-See <https://github.com/vippsas/vipps-design-guidelines/tree/master/vipps-buttons>.
-Download the Vipps logo and mark in `.svg` and `.png` formats.
 
 #### Logo
 
@@ -99,6 +116,7 @@ Here are paymarks that can be used on front page or product pages:
 
 See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) for more examples.
 
+
 ### Dos and Don’ts
 
 #### ✅ Do
@@ -111,6 +129,14 @@ See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) 
 
 * Don't create your own logo or mark or alter them in any way.
 * Don't display the Vipps logo or mark in a different or smaller size than the other payment options.
+
+
+### Vipps app icons
+
+[![app icon 1](images/appIkon-01-sm.png)](/downloads/vipps-app-icons/appIkon-01.png)
+
+[![app icon 2](images/appIkon-02-sm.png)](/downloads/vipps-app-icons/appIkon-02.png)
+
 
 ## Using Vipps in text
 
@@ -156,3 +182,9 @@ When displaying payment information on confirmation pages and email receipts, ma
 * [brand.vipps.no](https://brand.vipps.no/)
 * [designsystem.vipps.io](https://designsystem.vipps.io)
 * [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
+
+
+
+
+
+[figma-link]: https://www.figma.com/file/8678DAVOSUQbD6VhZVUGuh/Vipps-Design-Toolkit?type=design&node-id=1%3A972&t=MTp5hTbXodmc0qUs-1
