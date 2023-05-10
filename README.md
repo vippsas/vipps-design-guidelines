@@ -131,11 +131,11 @@ See [this PDF](/downloads/vipps-paymarks/Vipps-nettbutikker-v.4.0%20utrekk.pdf) 
 * Don't display the Vipps logo or mark in a different or smaller size than the other payment options.
 
 
-### Vipps app icons
-
-[![app icon 1](images/appIkon-01-sm.png)](/downloads/vipps-app-icons/appIkon-01.png)
+### Vipps app icon
 
 [![app icon 2](images/appIkon-02-sm.png)](/downloads/vipps-app-icons/appIkon-02.png)
+
+
 
 
 ## Using Vipps in text
