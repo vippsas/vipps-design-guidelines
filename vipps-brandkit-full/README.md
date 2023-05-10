@@ -45,7 +45,7 @@ The typefaces Vipps Display and Vipps Text (Light, Regular, Bold, Black). See RE
 
 # 4-vipps-emojis
 
-Emoji assets for for print (.eps) and screen (.svg and .png)
+Emoji assets for print (.eps) and screen (.svg and .png)
 
 # 5-vipps-templates
 
