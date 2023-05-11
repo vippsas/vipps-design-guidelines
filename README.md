@@ -25,10 +25,6 @@ You can find the Vipps images in the
 [Vipps Design Toolkit on Figma][figma-link].
 Alternatively, download a [zip file](/downloads/vipps-design-toolkit.zip) with all the images in SVG and PNG formats.
 
-
-To download a kit with brand and style information, see the
-[full Vipps brand toolkit](./vipps-brandkit-full/README.md).
-
 ## Vipps buttons
 
 ### Style
