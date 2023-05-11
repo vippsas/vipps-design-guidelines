@@ -180,10 +180,7 @@ When displaying payment information on confirmation pages and email receipts, ma
 ## Additional resources
 
 * [brand.vipps.no](https://brand.vipps.no/)
-* [designsystem.vipps.io](https://designsystem.vipps.io)
 * [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
-
-
 
 
 
