@@ -1,23 +1,16 @@
-<!-- START_METADATA
 ---
 title: Design guidelines
 sidebar_label: Introduction
 sidebar_position: 1
-hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 ---
-END_METADATA -->
 
 # Design guidelines
 
 These guidelines will help you use the payments buttons, logo, and marks within your websites.
 
 **Please note:** These guidelines are under revision. Contact us if you have questions.
-
-<!-- START_METADATA
-This content might be better reviewed in GitHub for now. See <https://github.com/vippsas/vipps-design-guidelines>.
-END_METADATA -->
 
 ## Assets
 
