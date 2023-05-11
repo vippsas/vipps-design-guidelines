@@ -1,48 +1,28 @@
 <!-- START_METADATA
 ---
-title: Brandkit
+title: Vipps Brand Toolkit
 sidebar_position: 90
 pagination_next: null
+pagination_previous: null
 ---
 END_METADATA -->
 
-# VippsBrandKit-full
+# Vipps Brand Toolkit
 
-**Please note:** These guidelines will be revised. Contact us if you have questions.
+The Vipps brand toolkit contains:
 
-Brand Kit for Vipps' visual identity aimed at creative agencies.
+* *vipps_one_pager_brand_guidelines_en.pdf* - One-pager with Basic Brand Guidelines in English.
+* *vipps_merkevare_retningslinjer_no.pdf* - One-pager with Basic Brand Guidelines in Norwegian.
 
-Download here:
-https://github.com/ScandinavianDesignGroup/VippsBrandKit/archive/master.zip
+* *1-vipps-wordmark* - Wordmark assets for print (.eps) and screen (.svg and .png), positive/negative (orange) and white.
 
---
+* *2-vipps-color-swatches* - .ASE Color Swatchbooks, Adobe-compatible.
 
-Containing:
+* *3-vipps-type* - The typefaces `Vipps Display` and `Vipps Text `(Light, Regular, Bold, Black).
 
-# vipps_one_pager_brand_guidelines_en.pdf
+* *4-vipps-emojis* - Emoji assets for print (.eps) and screen (.svg and .png)
 
-One-pager with Basic Brand Guidelines in English
+* *5-vipps-templates* - Ready-made templates for easy use of the brand standards (currently only for PowerPoint, `.potx` file).
 
-# vipps_merkevare_retningslinjer_no.pdf
-
-One-pager with Basic Brand Guidelines in Norwegian
-
-# 1-vipps-wordmark
-
-Wordmark assets for print (.eps) and screen (.svg and .png), positive/negative (orange) and white.
-
-# 2-vipps-color-swatches
-
-.ASE Color Swatchbooks Adobe-compatible.
-
-# 3-vipps-type
-
-The typefaces Vipps Display and Vipps Text (Light, Regular, Bold, Black). See README.MD for specific instructions.
-
-# 4-vipps-emojis
-
-Emoji assets for print (.eps) and screen (.svg and .png)
-
-# 5-vipps-templates
-
-Ready-made templates for easy use of the brand standards (currently only for PowerPoint, `.potx` file).
+Download the toolkit from here:
+<https://github.com/ScandinavianDesignGroup/VippsBrandKit/archive/master.zip>
