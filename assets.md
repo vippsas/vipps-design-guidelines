@@ -7,11 +7,11 @@ pagination_prev: null
 
 # Assets
 
-Find Vipps images:
+Vipps assets can be found here:
 
 * [Vipps Design Toolkit on Figma][figma-link]
 
-   Alternatively, download a [zip file](/downloads/vipps-design-toolkit.zip) with all the images in SVG and PNG formats.
+* Alternatively, download the [zip file](/downloads/vipps-design-toolkit.zip)
 
 
 Additional resources:
