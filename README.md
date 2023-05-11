@@ -14,13 +14,7 @@ These guidelines will help you use the payments buttons, logo, and marks within 
 Contents:
 
 * [Assets](assets.md)
-* [Buttons](buttons.md)
-* [Logo and mark](logo-and-mark.md)
+* [Button guidelines](buttons.md)
+* [Logo and mark guidelines](logo-and-mark.md)
 * [Text guidelines](text-guidelines.md)
 * [Best practices](best-practices.md)
-
-
-Additional resources:
-
-* [brand.vipps.no](https://brand.vipps.no/)
-* [Markedsmateriell](https://www.vipps.no/markedsmateriell/)
