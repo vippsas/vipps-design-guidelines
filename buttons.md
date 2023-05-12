@@ -8,19 +8,21 @@ pagination_prev: null
 
 # Button guidelines
 
-See the [Assets](assets.md) page to download the Vipps buttons.
-
 ## Style
 
-Vipps buttons are only available in one style: white text on orange.
+Vipps buttons are available in white text on orange.
 
-![Vipps payment button styles](images/style.svg)
+| Rectangular button  | Pill button  |
+| - | - |
+| ![Rectangular orange - EN](images/rectangle-orange-EN.png) | ![Pill white - EN](images/pill-orange-EN.png) |
+
+See the [Assets](assets.md) page to download variations of the Vipps buttons.
 
 ### Exceptions (WCAG AAA)
 
-Our orange buttons with white text meet the WCAG demands for AA.
-If your website need WCAG AAA, we allow to render our buttons in higher contrast, either white or black background.
-Use prefers-contrast and -ms-high-contrast CSS media queries to detect if your user have settings that asks for high contrast.
+Our orange buttons with white text meet the Web Content Accessibility Guidelines (WCAG) demands for AA (mid range).
+If your website must meet the WCAG AAA (highest accessibility range), you are allowed to render our buttons in higher contrast, either white or black background.
+Use `prefers-contrast` and `-ms-high-contrast` CSS media queries to detect if your users have settings that request high contrast.
 
 | Rectangular button  | Pill button  |
 | - | - |
