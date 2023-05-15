@@ -11,6 +11,12 @@ pagination_prev: null
 
 These guidelines will help you use the payments buttons, logo, and marks within your websites.
 
+<!-- START_COMMENT -->
+
+💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-design-guidelines/>. 💥
+
+<!-- END_COMMENT -->
+
 Contents:
 
 * [Assets](assets.md)

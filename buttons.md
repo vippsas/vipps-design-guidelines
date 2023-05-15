@@ -13,6 +13,12 @@ import TabItem from '@theme/TabItem';
 
 # Button guidelines
 
+<!-- START_COMMENT -->
+
+💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-design-guidelines/>. 💥
+
+<!-- END_COMMENT -->
+
 ## Style
 
 Vipps buttons are available in white text on orange.
