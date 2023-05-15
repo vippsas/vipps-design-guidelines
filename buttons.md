@@ -53,17 +53,21 @@ values={[
 {label: 'English', value: 'english'},
 ]}>
 <TabItem value="norwegian">
-* "Betal med Vipps"
+
+* Betal med Vipps
 * Logg inn med Vipps
 * Registrer med Vipps
 * Fortsett med Vipps
+
 </TabItem>
 
 <TabItem value="english">
+
 * Pay with Vipps
 * Log in with Vipps
 * Register with Vipps
 * Continue with Vipps
+
 </TabItem>
 </Tabs>
 
