@@ -6,6 +6,11 @@ pagination_next: null
 pagination_prev: null
 ---
 
+
+import ApiSchema from '@theme/ApiSchema';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Button guidelines
 
 ## Style
@@ -30,6 +35,31 @@ Use `prefers-contrast` and `-ms-high-contrast` CSS media queries to detect if yo
 | ![Rectangular black - EN](images/rectangular-black-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
 
 This exception only applies to color. Don't create your own Vipps buttons or alter the font, button radius, or padding within the button in any other way.
+
+## Approved verbs
+
+
+<Tabs
+defaultValue="norwegian"
+groupId="verbs"
+values={[
+{label: 'Norwegian', value: 'norwegian'},
+{label: 'English', value: 'english'},
+]}>
+<TabItem value="norwegian">
+* "Betal med Vipps"
+* Logg inn med Vipps
+* Registrer med Vipps
+* Fortsett med Vipps
+</TabItem>
+
+<TabItem value="english">
+* Pay with Vipps
+* Log in with Vipps
+* Register with Vipps
+* Continue with Vipps
+</TabItem>
+</Tabs>
 
 ## Best practices
 
