@@ -1,3 +1,4 @@
+<!-- START_METADATA
 ---
 sidebar_label: Button guidelines
 sidebar_position: 20
@@ -6,10 +7,10 @@ pagination_next: null
 pagination_prev: null
 ---
 
-
 import ApiSchema from '@theme/ApiSchema';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+END_METADATA -->
 
 # Button guidelines
 
@@ -31,8 +32,8 @@ See the [Assets](assets.md) page to download variations of the Vipps buttons.
 
 ### Exceptions (WCAG AAA)
 
-Our orange buttons with white text meet the Web Content Accessibility Guidelines (WCAG) demands for AA (mid range).
-If your website must meet the WCAG AAA (highest accessibility range), you are allowed to render our buttons in higher contrast, either white or black background.
+Our orange buttons with white text meet the Web Content Accessibility Guidelines (WCAG) demands for AA (mid-range).
+If your website must meet the WCAG AAA (the highest accessibility range), you are allowed to render our buttons in higher contrast, either white or black background.
 Use `prefers-contrast` and `-ms-high-contrast` CSS media queries to detect if your users have settings that request high contrast.
 
 | Rectangular button  | Pill button  |
@@ -43,7 +44,6 @@ Use `prefers-contrast` and `-ms-high-contrast` CSS media queries to detect if yo
 This exception only applies to color. Don't create your own Vipps buttons or alter the font, button radius, or padding within the button in any other way.
 
 ## Approved verbs
-
 
 <Tabs
 defaultValue="norwegian"
@@ -94,5 +94,6 @@ values={[
 
 👍 If you place a Vipps button next to another button, make sure the Vipps button is of equal size or larger.
 
-
+<!--
 [figma-link]: https://www.figma.com/file/8678DAVOSUQbD6VhZVUGuh/Vipps-Design-Toolkit?type=design&node-id=1%3A972&t=MTp5hTbXodmc0qUs-1
+-->

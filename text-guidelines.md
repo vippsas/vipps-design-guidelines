@@ -1,9 +1,11 @@
+<!-- START_METADATA
 ---
 sidebar_position: 40
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
----
+
+END_METADATA -->
 
 # Text guidelines
 
