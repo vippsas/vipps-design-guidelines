@@ -6,19 +6,18 @@ hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 ---
+END_METADATA -->
+
+
+<!-- START_COMMENT -->
+💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-design-guidelines/>. 💥
+<!-- END_COMMENT -->
 
 import ApiSchema from '@theme/ApiSchema';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-END_METADATA -->
 
 # Button guidelines
-
-<!-- START_COMMENT -->
-
-💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-design-guidelines/>. 💥
-
-<!-- END_COMMENT -->
 
 ## Style
 
