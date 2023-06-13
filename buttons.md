@@ -75,20 +75,20 @@ values={[
 
 ### ✅ Do
 
-- Use only the buttons provided by Vipps.
-- Use the same style of button throughout your site.
-- The button text should only use a verb approved by Vipps.
-- Ensure that the size of the Vipps buttons remains equal to or larger than other buttons.
-- Ensure that you choose a background color that contrasts with the button color.
+* Use only the buttons provided by Vipps.
+* Use the same style of button throughout your site.
+* The button text should only use a verb approved by Vipps.
+* Ensure that the size of the Vipps buttons remains equal to or larger than other buttons.
+* Ensure that you choose a background color that contrasts with the button color.
 
 ### 🔥 Don’t
 
-- Don't create your own Vipps buttons or alter the font, color, button radius, or padding within the button in any way.
-- Don't use Vipps buttons to initiate any action other than a flow controlled by Vipps (either opening our app or a Vipps landing page).
-- Don't make the Vipps button smaller than other buttons.
-- Don't use a background color that's similar to the button color.
-- Don't add hover effects.
-- Don't add stroke.
+* Don't create your own Vipps buttons or alter the font, color, button radius, or padding within the button in any way.
+* Don't use Vipps buttons to initiate any action other than a flow controlled by Vipps (either opening our app or a Vipps landing page).
+* Don't make the Vipps button smaller than other buttons.
+* Don't use a background color that's similar to the button color.
+* Don't add hover effects.
+* Don't add stroke.
 
 ![Cart with two buttons](images/cart-two-buttons.svg)
 
