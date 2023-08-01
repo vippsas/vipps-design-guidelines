@@ -10,7 +10,7 @@ END_METADATA -->
 
 
 <!-- START_COMMENT -->
-💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/vipps-design-guidelines/>. 💥
+💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/design-guidelines/>. 💥
 <!-- END_COMMENT -->
 
 import ApiSchema from '@theme/ApiSchema';
