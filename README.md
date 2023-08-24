@@ -17,7 +17,6 @@ END_METADATA -->
 
 Use ![Vipps](images/logo.svg) and ![MobilePay](images/MP_logo.png) assets to build your website.
 
-
 Download buttons, logos, and marks for both Vipps and MobilePay from the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay).
 
 [![Vipps MobilePay Design Toolkit on Figma](images/figma.png)](https://www.figma.com/@vippsmobilepay)
@@ -28,6 +27,16 @@ This is also available in zip files:
 
 * [Vipps toolkit](/downloads/vipps-design-toolkit.zip)
 * [MobilePay toolkit](/downloads/mobilepay-design-toolkit.zip)
+
+## Guidelines
+
+See the design guidelines for use and placement of:
+
+* [Buttons](buttons.md)
+* [Logos and marks](logo-and-mark.md)
+* [Brand in text](text-guidelines.md)
+
+As well as: general [best practices](best-practices.md).
 
 ## Related links
 

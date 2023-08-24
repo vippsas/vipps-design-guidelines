@@ -1,18 +1,34 @@
 <!-- START_METADATA
 ---
+title: Vipps MobilePay logo and mark guidelines
 sidebar_label: Logo and mark guidelines
 sidebar_position: 30
 hide_table_of_contents: true
 pagination_next: null
 pagination_prev: null
 ---
+
+import ApiSchema from '@theme/ApiSchema';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 END_METADATA -->
 
 # Logo and mark guidelines
 
-Use either the Vipps logo or the Vipps mark when showing Vipps as a payment option. Choose the option that best matches the way in which other payment options are displayed.
+See the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay) page to download the logos and marks.
 
-See the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay) page to download the logo and mark.
+
+<Tabs
+defaultValue="vipps"
+groupId="brands"
+values={[
+{label: 'Vipps', value: 'vipps'},
+{label: 'MobilePay', value: 'mobilepay'},
+]}>
+<TabItem value="vipps">
+
+Use either the Vipps logo or the Vipps mark when showing Vipps as a payment option. Choose the option that best matches the way in which other payment options are displayed.
 
 ## Logo
 
@@ -54,3 +70,11 @@ Adjust the height to match the other brand identities displayed in your payment 
 
 * Don't create your own logo or mark or alter them in any way.
 * Don't display the Vipps logo or mark in a different or smaller size than the other payment options.
+
+</TabItem>
+
+<TabItem value="mobilepay">
+To be provided.
+</TabItem>
+
+</Tabs>

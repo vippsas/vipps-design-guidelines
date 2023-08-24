@@ -1,5 +1,6 @@
 <!-- START_METADATA
 ---
+title: Vipps MobilePay button guidelines
 sidebar_label: Button guidelines
 sidebar_position: 20
 hide_table_of_contents: true
@@ -19,6 +20,17 @@ END_METADATA -->
 💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/design-guidelines/>. 💥
 <!-- END_COMMENT -->
 
+See the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay) to download variations of the Vipps and MobilePay buttons.
+
+<Tabs
+defaultValue="vipps"
+groupId="brands"
+values={[
+{label: 'Vipps', value: 'vipps'},
+{label: 'MobilePay', value: 'mobilepay'},
+]}>
+<TabItem value="vipps">
+
 ## Style
 
 Vipps buttons are available in white text on orange.
@@ -27,7 +39,7 @@ Vipps buttons are available in white text on orange.
 | ---------------------------------------------------------- | --------------------------------------------- |
 | ![Rectangular orange - EN](images/rectangle-orange-EN.png) | ![Pill white - EN](images/pill-orange-EN.png) |
 
-See our [Figma page](https://www.figma.com/@vippsmobilepay) to download variations of the Vipps and MobilePay buttons.
+
 
 ### Exceptions (WCAG AAA)
 
@@ -94,3 +106,11 @@ values={[
 
 👍 If you place a Vipps button next to another button, make sure the Vipps button is of equal size or larger.
 
+
+</TabItem>
+
+<TabItem value="mobilepay">
+To be provided
+</TabItem>
+
+</Tabs>
