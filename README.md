@@ -1,7 +1,7 @@
 <!-- START_METADATA
 ---
-title: Design guidelines
-sidebar_label: Introduction
+title: Design resources for Vipps MobilePay
+sidebar_label: Overview
 sidebar_position: 1
 hide_table_of_contents: true
 pagination_next: null
@@ -9,18 +9,28 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Design guidelines
-
-These guidelines will help you use the payments buttons, logo, and marks within your websites.
+# Design resources
 
 <!-- START_COMMENT -->
 💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/design-guidelines/>. 💥
 <!-- END_COMMENT -->
 
-Contents:
+Use ![Vipps](images/logo.svg) and ![MobilePay](images/MP_logo.png) assets to build your website.
 
-* [Assets](assets.md)
-* [Button guidelines](buttons.md)
-* [Logo and mark guidelines](logo-and-mark.md)
-* [Text guidelines](text-guidelines.md)
-* [Best practices](best-practices.md)
+
+Download buttons, logos, and marks for both Vipps and MobilePay from the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay).
+
+[![Vipps MobilePay Design Toolkit on Figma](images/figma.png)](https://www.figma.com/@vippsmobilepay)
+
+The design toolkit will help you use the payments buttons, logo, and marks within your websites.
+
+This is also available in zip files:
+
+* [Vipps toolkit](/downloads/vipps-design-toolkit.zip)
+* [MobilePay toolkit](/downloads/mobilepay-design-toolkit.zip)
+
+## Related links
+
+Vipps marketing material is available at [Vipps marketing material](https://www.vipps.no/markedsmateriell/).
+
+Older Vipps branding assets can be found at [Vipps branding](https://brand.vipps.no/).
