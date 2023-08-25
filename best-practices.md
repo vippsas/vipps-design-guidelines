@@ -43,8 +43,9 @@ When displaying payment information on confirmation pages and email receipts, ma
 
 <TabItem value="mobilepay">
 
-Please see
-[MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#).
+Please see:
+
+* [MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#)
 
 </TabItem>
 

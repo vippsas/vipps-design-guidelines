@@ -87,7 +87,6 @@ Adjust the height to match the other brand identities displayed in your payment 
 
 Please see:
 
-* [MobilePay Logo](https://www.mobilepaygroup.com/design/logo)
 * [MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#)
 
 </TabItem>
