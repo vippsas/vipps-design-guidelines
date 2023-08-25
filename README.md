@@ -40,6 +40,6 @@ As well as: general [best practices](best-practices.md).
 
 ## Related links
 
-Vipps marketing material is available at [Vipps marketing material](https://www.vipps.no/markedsmateriell/).
-
-Older Vipps branding assets can be found at [Vipps branding](https://brand.vipps.no/).
+* [MobilePay design guidelines](https://www.mobilepaygroup.com/design#)
+* [Vipps marketing material](https://www.vipps.no/markedsmateriell/)
+* [Vipps branding](https://brand.vipps.no/)

@@ -43,7 +43,15 @@ The *Vipps*  name should be set in the same font and typographic style as the re
 </TabItem>
 
 <TabItem value="mobilepay">
-To be provided.
+
+Don't capitalize the full name "MobilePay" unless matching the typographic style on your website. Never use all capitals for the *MobilePay* in your marketing communication.
+
+The *Vipps*  name should be set in the same font and typographic style as the rest of the text on your website. Don't try to mimic the Vipps MobilePay typographic style.
+
+👍 If you don't display logos for other payment options, *MobilePay* should be represented by text.
+
+👍 *MobilePay* should be set in the same font and typographic style as the rest of the text on your site.
+
 </TabItem>
 
 </Tabs>
