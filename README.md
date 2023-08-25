@@ -1,6 +1,6 @@
 <!-- START_METADATA
 ---
-title: Design resources for Vipps MobilePay
+title: Design guidelines for Vipps MobilePay
 sidebar_label: Overview
 sidebar_position: 1
 hide_table_of_contents: true
@@ -9,7 +9,7 @@ pagination_prev: null
 ---
 END_METADATA -->
 
-# Design resources
+# Design guidelines
 
 <!-- START_COMMENT -->
 💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/design-guidelines/>. 💥
