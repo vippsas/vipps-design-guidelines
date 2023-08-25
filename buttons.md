@@ -37,7 +37,7 @@ Vipps buttons are available in white text on orange.
 
 | Rectangular button                                         | Pill button                                   |
 | ---------------------------------------------------------- | --------------------------------------------- |
-| ![Rectangular orange - EN](images/rectangle-orange-EN.png) | ![Pill white - EN](images/pill-orange-EN.png) |
+| ![Rectangular orange - EN](images/vipps/rectangle-orange-EN.png) | ![Pill white - EN](images/vipps/pill-orange-EN.png) |
 
 
 
@@ -49,8 +49,8 @@ Use `prefers-contrast` and `-ms-high-contrast` CSS media queries to detect if yo
 
 | Rectangular button                                         | Pill button                                  |
 | ---------------------------------------------------------- | -------------------------------------------- |
-| ![Rectangular white - EN](images/rectangular-white-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
-| ![Rectangular black - EN](images/rectangular-black-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
+| ![Rectangular white - EN](images/vipps/rectangular-white-EN.png) | ![Pill white - EN](images/vipps/pill-white-EN.png) |
+| ![Rectangular black - EN](images/vipps/rectangular-black-EN.png) | ![Pill white - EN](images/vipps/pill-white-EN.png) |
 
 This exception only applies to color. Don't create your own Vipps or MobilePay buttons or alter the font, button radius, or padding within the button in any other way.
 
@@ -102,7 +102,7 @@ values={[
 * Don't add hover effects.
 * Don't add stroke.
 
-![Cart with two buttons](images/cart-two-buttons.svg)
+![Cart with two buttons](images/vipps/cart-two-buttons.svg)
 
 👍 If you place a Vipps button next to another button, make sure the Vipps button is of equal size or larger.
 

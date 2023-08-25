@@ -32,7 +32,7 @@ Use either the Vipps logo or the Vipps mark when showing Vipps as a payment opti
 
 ## Logo
 
-![Vipps logo](images/logo.svg)
+![Vipps logo](images/vipps/logo.svg)
 
 *Use the Vipps logo with other brand logos.*
 
@@ -40,7 +40,7 @@ If you're using the full logos of other brands to indicate different payment opt
 
 ## Mark
 
-![Vipps mark](images/mark.svg)
+![Vipps mark](images/vipps/mark.svg)
 
 *Use the Vipps mark with other brand identities in credit card format.*
 
@@ -50,11 +50,11 @@ If you're using brand identities displayed in credit card format to indicate dif
 
 Adjust the height to match the other brand identities displayed in your payment flow. Don't make the Vipps logo or mark smaller than other brand identities.
 
-![Checkout with Vipps logo](images/checkout-logo.svg)
+![Checkout with Vipps logo](images/vipps/checkout-logo.svg)
 
 👍 If you use logos to represent payment options, use the Vipps logo and continue to use it throughout your buy flow.
 
-![Checkout with Vipps mark](images/checkout-mark.svg)
+![Checkout with Vipps mark](images/vipps/checkout-mark.svg)
 
 👍 If you use the credit card format to represent payment options, continue to use the Vipps mark throughout your buy flow.
 
