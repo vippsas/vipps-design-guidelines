@@ -27,6 +27,7 @@ values={[
 ]}>
 <TabItem value="vipps">
 
+
 ## Make Vipps the primary payment option
 
 People like using Vipps for faster checkout. Where possible, display the Vipps button prominently, and consider making it the default or only payment option.
