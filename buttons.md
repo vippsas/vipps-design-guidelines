@@ -20,7 +20,7 @@ END_METADATA -->
 💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/design-guidelines/>. 💥
 <!-- END_COMMENT -->
 
-See the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay) to download variations of the Vipps and MobilePay buttons.
+See the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay) to download variations of the buttons.
 
 <Tabs
 defaultValue="vipps"
@@ -35,42 +35,32 @@ values={[
 
 Vipps buttons are available in white text on orange.
 
-| Rectangular button                                         | Pill button                                   |
-| ---------------------------------------------------------- | --------------------------------------------- |
-| ![Rectangular orange - EN](images/rectangle-orange-EN.png) | ![Pill white - EN](images/pill-orange-EN.png) |
-
-
+| Rectangular button | Pill button |
+| ------------------ | ----------- |
+| ![Rectangular orange - EN](images/vipps/rectangle-orange-EN.png) | ![Pill orange - EN](images/vipps/pill-orange-EN.png) |
 
 ### Exceptions (WCAG AAA)
 
-Our orange buttons with white text meet the Web Content Accessibility Guidelines (WCAG) demands for AA (mid-range).
+Our buttons with white text meet the Web Content Accessibility Guidelines (WCAG) demands for AA (mid-range).
 If your website must meet the WCAG AAA (the highest accessibility range), you are allowed to render our buttons in higher contrast, either white or black background.
 Use `prefers-contrast` and `-ms-high-contrast` CSS media queries to detect if your users have settings that request high contrast.
 
-| Rectangular button                                         | Pill button                                  |
-| ---------------------------------------------------------- | -------------------------------------------- |
-| ![Rectangular white - EN](images/rectangular-white-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
-| ![Rectangular black - EN](images/rectangular-black-EN.png) | ![Pill white - EN](images/pill-white-EN.png) |
+| Rectangular button | Pill button |
+| ------------------ | ----------- |
+| ![Rectangular white - EN](images/vipps/rectangular-white-EN.png) | ![Pill white - EN](images/vipps/pill-white-EN.png) |
+| ![Rectangular black - EN](images/vipps/rectangular-black-EN.png) | ![Pill black - EN](images/vipps/pill-black-EN.png) |
 
 This exception only applies to color. Don't create your own Vipps or MobilePay buttons or alter the font, button radius, or padding within the button in any other way.
 
 ## Approved verbs
 
 <Tabs
-defaultValue="norwegian"
+defaultValue="english"
 groupId="verbs"
 values={[
-{label: 'Norwegian', value: 'norwegian'},
 {label: 'English', value: 'english'},
+{label: 'Norwegian', value: 'norwegian'},
 ]}>
-<TabItem value="norwegian">
-
-* Betal med Vipps
-* Logg inn med Vipps
-* Registrer med Vipps
-* Fortsett med Vipps
-
-</TabItem>
 
 <TabItem value="english">
 
@@ -78,6 +68,14 @@ values={[
 * Log in with Vipps
 * Register with Vipps
 * Continue with Vipps
+
+</TabItem>
+<TabItem value="norwegian">
+
+* Betal med Vipps
+* Logg inn med Vipps
+* Registrer med Vipps
+* Fortsett med Vipps
 
 </TabItem>
 </Tabs>
@@ -102,15 +100,18 @@ values={[
 * Don't add hover effects.
 * Don't add stroke.
 
-![Cart with two buttons](images/cart-two-buttons.svg)
+![Cart with two buttons](images/vipps/cart-two-buttons.svg)
 
 👍 If you place a Vipps button next to another button, make sure the Vipps button is of equal size or larger.
 
-
 </TabItem>
-
 <TabItem value="mobilepay">
-To be provided
-</TabItem>
 
+Please see:
+
+* [MobilePay button brand guidelines](https://www.mobilepaygroup.com/mobilepaymedia/mobilepay-global/material-bank-global/brandguidelines/mobilepay-button-guidelines.pdf)
+* [MobilePay buttons](https://www.mobilepaygroup.com/design/buttons)
+* [MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#)
+
+</TabItem>
 </Tabs>

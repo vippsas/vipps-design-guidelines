@@ -33,17 +33,21 @@ Always use an uppercase "V" followed by lowercase letters. Don't capitalize the 
 
 The *Vipps*  name should be set in the same font and typographic style as the rest of the text on your website. Don't try to mimic the Vipps MobilePay typographic style.
 
-![Checkout with Vipps in text](images/cart-text.svg)
+![Checkout with Vipps in text](images/vipps/cart-text.svg)
 
 👍 If you don't display logos for other payment options, *Vipps* should be represented by text.
 
-![Confirm with Vipps mark](images/confirm-mark.svg)
+![Confirm with Vipps mark](images/vipps/confirm-mark.svg)
 
 👍 *Vipps* should be set in the same font and typographic style as the rest of the text on your site.
 </TabItem>
 
 <TabItem value="mobilepay">
-To be provided.
+
+Please see:
+
+* [MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#)
+
 </TabItem>
 
 </Tabs>

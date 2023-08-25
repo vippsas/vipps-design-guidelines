@@ -27,6 +27,7 @@ values={[
 ]}>
 <TabItem value="vipps">
 
+
 ## Make Vipps the primary payment option
 
 People like using Vipps for faster checkout. Where possible, display the Vipps button prominently, and consider making it the default or only payment option.
@@ -43,17 +44,10 @@ When displaying payment information on confirmation pages and email receipts, ma
 
 <TabItem value="mobilepay">
 
-## Make MobilePay the primary payment option
+Please see:
 
-Where possible, display the MobilePay button prominently, and consider making it the default or only payment option.
+* [MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#)
 
-## Let your MobilePay customers make purchases without an account
-
-Account creation slows down the checkout process and can lead to abandoned carts. Use Vipps MobilePay to enable faster guest checkout. If you'd like your customers to create an account, allow them to do so after they complete their purchase.
-
-## Include MobilePay on confirmation pages and receipts
-
-When displaying payment information on confirmation pages and email receipts, make sure you indicate the customer has paid with r MobilePay. Ensure that *MobilePay* is displayed consistently with how other payment methods are displayed.
 </TabItem>
 
 </Tabs>
