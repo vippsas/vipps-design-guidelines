@@ -38,6 +38,11 @@ See the design guidelines for use and placement of:
 
 As well as: general [best practices](best-practices.md).
 
+## Tools for your website
+
+* [Checkout button](vipps-checkout-button.md)
+* [On-site messaging](vipps-checkout-on-site-messaging.md)
+
 ## Related links
 
 * [MobilePay design guidelines](https://www.mobilepaygroup.com/design#)
