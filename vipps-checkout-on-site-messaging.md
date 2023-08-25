@@ -123,4 +123,4 @@ To add the *badge* to your product in Shopify, find your product in *Shopify Adm
 <vipps-badge variant="purple"></vipps-badge>
 ```
 
-![Shopify integration](resources/osm-shopify.png)
+![Shopify integration](./images/vipps/osm-shopify.png)
