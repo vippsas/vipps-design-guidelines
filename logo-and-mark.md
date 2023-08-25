@@ -36,7 +36,7 @@ Use either the Vipps logo or the Vipps mark when showing Vipps as a payment opti
 
 *Use the Vipps logo with other brand logos.*
 
-If you're using the full logos of other brands to indicate different payment options in your payment flow, use the Vipps logo instead of the Vipps mark. Display "Vipps" in text next to the logo, if you're doing so for other brands. Don't alter the Vipps logo in any way. Use only the logo provided by Vipps.
+If you're using the full logos of other brands to indicate different payment options in your payment flow, use the Vipps logo instead of the Vipps mark. Display "Vipps" in text next to the logo, if you're doing so for other brands. Don't alter the Vipps logo in any way. Use only the logo provided by Vipps MobilePay.
 
 ## Mark
 
@@ -44,7 +44,7 @@ If you're using the full logos of other brands to indicate different payment opt
 
 *Use the Vipps mark with other brand identities in credit card format.*
 
-If you're using brand identities displayed in credit card format to indicate different payment options in your payment flow, use the Vipps mark instead of the Vipps logo. Display "Vipps" in text next to the mark, if you're doing so for other brands. Don't change the color or weight of the mark's outline or alter the mark in any way. Use only the mark provided by Vipps.
+If you're using brand identities displayed in credit card format to indicate different payment options in your payment flow, use the Vipps mark instead of the Vipps logo. Display "Vipps" in text next to the mark, if you're doing so for other brands. Don't change the color or weight of the mark's outline or alter the mark in any way. Use only the mark provided by Vipps MobilePay.
 
 ## Size recommendations
 
@@ -62,7 +62,7 @@ Adjust the height to match the other brand identities displayed in your payment 
 
 ### ✅ Do
 
-* Use only the Vipps logo and mark provided by Vipps.
+* Use only the Vipps logo and mark provided by Vipps MobilePay.
 * Use the Vipps logo or mark to indicate Vipps as a payment option during payment flows.
 * Choose the logo or mark that best matches the way in which other brand identities are displayed.
 
@@ -74,7 +74,21 @@ Adjust the height to match the other brand identities displayed in your payment 
 </TabItem>
 
 <TabItem value="mobilepay">
-To be provided.
-</TabItem>
 
+## Logo
+
+![MobilePay logo](images/mobilepay/MP_logo.png)
+
+
+## Mark
+
+![MobilePay mark](images/mobilepay/MP_mark.png)
+
+
+Please see:
+
+* [MobilePay Logo](https://www.mobilepaygroup.com/design/logo)
+* [MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#)
+
+</TabItem>
 </Tabs>

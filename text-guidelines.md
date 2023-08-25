@@ -43,7 +43,10 @@ The *Vipps*  name should be set in the same font and typographic style as the re
 </TabItem>
 
 <TabItem value="mobilepay">
-To be provided.
+
+Please see
+[MobilePay guidelines and assets](https://www.mobilepaygroup.com/design#).
+
 </TabItem>
 
 </Tabs>
