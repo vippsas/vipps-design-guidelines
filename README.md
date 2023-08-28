@@ -40,8 +40,8 @@ As well as: general [best practices](best-practices.md).
 
 ## Tools for your website
 
-* [Checkout button](vipps-checkout-button.md)
-* [On-site messaging](vipps-checkout-on-site-messaging.md)
+* [Checkout button](checkout-button.md)
+* [On-site messaging](checkout-on-site-messaging.md)
 
 ## Related links
 

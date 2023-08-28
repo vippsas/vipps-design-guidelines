@@ -11,22 +11,24 @@ END_METADATA -->
 
 # Checkout button
 
-Make it super easy for customers to check out straight from a product page with Checkout Direct and our "Buy now" checkout-*button*!
+Make it super easy for customers to check out straight from a product page with
+*Checkout Direct* and our *Buy now* checkout button!
 
-The *button* is provided in multiple variants and colors and can be tailored to your page.
+The button is provided in multiple variants and colors and can be tailored to your page.
 
-To be able to use the badge on your site you need to add the Vipps Checkout Button JavaScript library.
-The library should preferably be added between your page's `<head>...</head>`-tags and only once per page:
+To use the badge on your site, add the *Vipps Checkout Button* JavaScript library.
+The library should preferably be added between your page's `<head>...</head>` tags and only once per page:
 
 ```html
 <script async type="text/javascript" src="https://checkout.vipps.no/checkout-button/v1/vipps-checkout-button.js"></script>
 ```
 
-If you don't have access to edit your websites code directly, you can also place the JavaScript library just before the *button*.
+If you don't have access to edit your website's code directly, you can place the JavaScript library just before the Checkout button.
 
 ## Example button
 
-You can find a demo and examples of all the variants [here](https://checkout.vipps.no/checkout-button/v1).
+You can find a demo and examples of all the variants on the
+[checkout button demo page](https://checkout.vipps.no/checkout-button/v1).
 
 ![Checkout Button](images/vipps/vipps-checkout-button.png)
 
@@ -48,21 +50,21 @@ All attributes are optional.
 
 ### Customization
 
-You can customize the placement and size of the *button* by either applying your own CSS-style with the `class` or `style` attribute.
+You can customize the placement and size of the Checkout button by applying your own CSS-style with the `class` or `style` attribute.
 
-If the *button* is too small or too large to fit your content, you can override the `font-size` to scale the *button* as follows:
+If the button is too small or too large to fit your content, you can override the `font-size` to scale it as follows:
 
 ```html
 <vipps-checkout-button variant="orange" variant="purple" style="font-size: 1.5rem;"></vipps-checkout-button>
 ```
 
-Which will scale the *button* to 1.5x the size of the root font-size. You may also use `px` or `em` values to scale the *button*.
+This will scale the button to 1.5x the size of the root font size. You can also use `px` or `em` values to scale the button.
 
-The *button* is an `inline` element by default, which means it will stay on the same line as sibling elements.
+The button is an `inline` element by default, which means it will stay on the same line as sibling elements.
 
-So to center or fill the *button* you have to set `display: block` on the element to prevent it from being `inline`.
+So, to center or fill the button, you must set `display: block` on the element to prevent it from being `inline`.
 
-Use `text-align` with `display:block` to align the *button*:
+Use `text-align` with `display:block` to align the button. For example:
 
 ```html
 <vipps-checkout-button variant="stroked" style="display: block; text-align: center;"></vipps-checkout-button>
@@ -70,7 +72,7 @@ Use `text-align` with `display:block` to align the *button*:
 
 ## Integrations
 
-Read more about integrating with Vipps Checkout Direct [here](vipps-checkout-api.md#alternative-2-vipps-checkout-direct---we-handle-the-checkout-and-redirect-the-user-back-to-you).
+Read more about integrating with *Checkout Direct* in the [Checkout API guide](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#alternative-2-vipps-checkout-direct---we-handle-the-checkout-and-redirect-the-user-back-to-you).
 
 ### Example integration
 
