@@ -17,7 +17,8 @@ END_METADATA -->
 # Button guidelines
 
 <!-- START_COMMENT -->
-💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/design-guidelines/>. 💥
+ℹ️ Please use the website:
+[Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/design-guidelines/).
 <!-- END_COMMENT -->
 
 See the [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay) to download variations of the buttons.

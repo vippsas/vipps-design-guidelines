@@ -12,7 +12,8 @@ END_METADATA -->
 # Design guidelines
 
 <!-- START_COMMENT -->
-💥 Please use the documentation pages here: <https://developer.vippsmobilepay.com/docs/design-guidelines/>. 💥
+ℹ️ Please use the website:
+[Vipps MobilePay Technical Documentation](https://developer.vippsmobilepay.com/docs/design-guidelines/).
 <!-- END_COMMENT -->
 
 Use ![Vipps](images/vipps/logo.svg) and ![MobilePay](images/mobilepay/MP_logo.png) assets to build your website.
