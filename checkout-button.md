@@ -89,7 +89,7 @@ Read more about integrating with *Checkout Direct* in the [Checkout API guide](h
       document
         .getElementById("checkout-button")
         .addEventListener("click", function () {
-          // Relay an initiate session request to Vipps Checkout API through the merchant's backend
+          // Relay an initiate session request to Checkout API through the merchant's backend
           fetch("<MERCHANT BACKEND CREATE SESSION URL>", {
             method: "POST",
           })
