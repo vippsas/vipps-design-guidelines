@@ -26,7 +26,7 @@ The design toolkit will help you use the payments buttons, logo, and marks withi
 * [Vipps toolkit](/downloads/vipps-design-toolkit.zip)
 * [MobilePay toolkit](/downloads/mobilepay-design-toolkit.zip)
 
-## Toolkits on Figma
+## Resources on Figma
 
 * [Vipps MobilePay Design Toolkit on Figma](https://www.figma.com/@vippsmobilepay)
 
