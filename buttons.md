@@ -95,7 +95,7 @@ values={[
 
 * Don't create your own Vipps buttons or alter the font, color, button radius, or padding within the button in any way.
 * Don't use Vipps buttons to initiate any action other than a flow controlled by Vipps (either opening our app or a
-  [landing page](https://developer.vippsmobilepay.com/docs/common-topics/landing-page)).
+  [landing page](https://developer.vippsmobilepay.com/docs/knowledge-base/landing-page)).
 * Don't make the Vipps button smaller than other buttons.
 * Don't use a background color that's similar to the button color.
 * Don't add hover effects.
