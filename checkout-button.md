@@ -72,7 +72,7 @@ Use `text-align` with `display:block` to align the button. For example:
 
 ## Integrations
 
-Read more about integrating with *Checkout Direct* in the [Checkout API guide](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/vipps-checkout-api/#alternative-2-vipps-checkout-direct---we-handle-the-checkout-and-redirect-the-user-back-to-you).
+Read more about integrating with *Checkout Direct* in the [Checkout API guide](https://developer.vippsmobilepay.com/docs/APIs/checkout-api/checkout-api-guide/#alternative-2-checkout-direct---we-handle-the-checkout-and-redirect-the-user-back-to-you).
 
 ### Example integration
 
